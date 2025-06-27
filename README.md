@@ -1,3 +1,5 @@
+![MERN Stack Revision Plan](./MERN%20Stack%20Revision%20Plan.png)
+
 # MERN Stack Revision Plan
 
 This revision plan covers essential topics and subtopics for mastering the MERN (MongoDB, Express.js, React, Node.js) stack. It's designed to help you build a strong foundation in full-stack web development.
